@@ -1,0 +1,137 @@
+/*Yuxiang Lin_20172116*/
+
+body{
+	background:#dddddd url(images/bg.jpg) no-repeat center center fixed;
+    font: 400 12px/22px 'Open Sans', Verdana, Helvetica, sans-serif;
+}
+.title{
+    text-align: center;
+}
+
+.navbox{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.details{
+    background-color: #e8e6e6;
+    width: 51%;
+    margin-left: auto;
+    margin-right: auto;
+    
+    padding: 20px; 
+    margin-bottom: 20px; 
+}
+
+.details h4 {
+    border-bottom: 1px solid #ccc; 
+    padding-bottom: 20px; 
+    margin-bottom: 20px; 
+}
+
+.details img {
+    display: block;
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+}
+
+#questionContainer {
+    margin: 20px;
+    padding: 20px;
+}
+
+input[type="text"] {
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+}
+
+#gameContainer1 {
+    display: none; /* Initially hidden */
+    
+
+    margin: 0 auto; /* Center the container */
+    max-width: 800px; /* Adjust based on your content */
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Soft shadow for depth */
+    background-color: #f9f9f9; /* Light background */
+    border-radius: 8px; /* Soften edges */
+}
+
+
+#testTypeSelection{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/*#testTypeSelection button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}*/
+
+#testTypeSelection button{
+    background-color: #007bff; 
+    color: white; 
+    border: none; 
+    padding: 10px 20px; 
+    margin: 5px; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+}
+
+
+#testTypeSelection button:hover {
+    background-color: #0056b3;
+}
+
+#questionText, #answerForm, #result {
+    text-align: center; /* Center text */
+    margin-bottom: 15px; /* Spacing */
+}
+
+/* Style for the countdown and correct answer countdown */
+#countdownContainer, #correctAnswerCountdownContainer {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#answerForm {
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* Ensure the form itself doesn't disrupt the centering */
+#answerForm label {
+    display: block; /* or 'inline-block' depending on layout */
+    margin: auto; /* for horizontal centering if 'block' */
+}
+
+.buttonContainer {
+    display: flex;
+    justify-content: center;
+    width: 100%; /* Ensures it spans the full width of gameContainer1 */
+    margin-top: 20px; /* Adjust as needed for spacing */
+}
+
+
+#questionImage {
+    max-width: 100%; /* Ensure it scales down if too wide for its container */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Treat the image as a block-level element */
+    margin: 0 auto; /* Center the image horizontally */
+}
+
+.highlight {
+    color: #dd2b2b;
+    font-weight: bold;
+}

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Cycle of Fifths Table</title>
+
+<style>
+    .navbox{
+        margin-left: auto;
+        margin-right: auto;
+    }
+</style>
+</head>
+<body>
+
+    <table class="navbox collapsible noprint autocollapse" >
+        <tbody>
+            <tr>
+                <th class="navbox-title" colspan="2"><div style="float:left; width:6em; text-align:left">
+                    <div class="noprint plainlinks nowrap tnavbar" style="background-color:transparent; padding:0; font-size:xx-small; color:#000000;">&#160;</div></div><div style="font-size:110%">Cycle des quintes
+                    </div>
+                </th>
+        </tr>  <tr>
+        
+        <td class="navbox-list" colspan="2"><table class="navbox-columns-table" style="text-align:left;margin:0px;width:100%;">
+            <tbody><tr><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#dddddd;"><b>Tonalité</b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#dddddd;"><b>7♭<br /><span typeof="mw:File"></a></span></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#dddddd;"><b>6♭<br /><span typeof="mw:File"></span></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#dddddd;"><b>5♭<br /><span typeof="mw:File"></span></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#dddddd;"><b>4♭<br /><span typeof="mw:File"></span></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#dddddd;"><b>3♭<br /><span typeof="mw:File"></span></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#dddddd;"><b>2♭<br /><span typeof="mw:File"></span></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#dddddd;"><b>1♭<br /><span typeof="mw:File"></span></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#dddddd;"><b>0 <br /><span typeof="mw:File"></span></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#dddddd;"><b>1♯<br /><span typeof="mw:File"></span></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#dddddd;"><b>2♯<br /><span typeof="mw:File"></span></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#dddddd;"><b>3♯<br /><span typeof="mw:File"></span></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#dddddd;"><b>4♯<br /><span typeof="mw:File"></span></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#dddddd;"><b>5♯<br /><span typeof="mw:File"><a href="/wiki/Fichier:B-major_g-sharp-minor.svg" class="mw-file-description"></span></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#dddddd;"><b>6♯<br /><span typeof="mw:File"></span></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#dddddd;"><b>7♯<br /><span typeof="mw:File"></span></b></td></tr><tr style="vertical-align:top;"><td rowspan="" colspan="" style="padding:0px;text-align:center;background-color:#ececec;;;width:6%;">
+        <div>
+        <p><b><a href="/wiki/Mode_majeur" title="Mode majeur">Mode majeur</a></b>
+        </p>
+        </div></td><td rowspan="" colspan="" style="padding:0px;text-align:center;background-color:#ececec;;;width:6%;"><div>
+        <p><b><a href="/wiki/Do_b%C3%A9mol_majeur" title="Do bémol majeur">do♭ <br /><small>majeur</small></a></b>
+        </p>
+        </div></td><td rowspan="" colspan="" style="padding:0px;text-align:center;background-color:#ececec;;;width:6%;"><div>
+        <p><b><a href="/wiki/Sol_b%C3%A9mol_majeur" title="Sol bémol majeur">sol♭ <br /><small>majeur</small></a></b>
+        </p>
+        </div></td><td rowspan="" colspan="" style="padding:0px;text-align:center;background-color:#ececec;;;width:6%;"><div>
+        <p><b><a href="/wiki/R%C3%A9_b%C3%A9mol_majeur" title="Ré bémol majeur">ré♭ <br /><small>majeur</small></a></b>
+        </p>
+        </div></td><td rowspan="" colspan="" style="padding:0px;text-align:center;background-color:#ececec;;;width:6%;"><div>
+        <p><b><a href="/wiki/La_b%C3%A9mol_majeur" title="La bémol majeur">la♭ <br /><small>majeur</small></a></b>
+        </p>
+        </div></td><td rowspan="" colspan="" style="padding:0px;text-align:center;background-color:#ececec;;;width:6%;"><div>
+        <p><b><a href="/wiki/Mi_b%C3%A9mol_majeur" title="Mi bémol majeur">mi♭ <br /><small>majeur</small></a></b>
+        </p>
+        </div></td><td rowspan="" colspan="" style="padding:0px;text-align:center;background-color:#ececec;;;width:6%;"><div>
+        <p><b><a href="/wiki/Si_b%C3%A9mol_majeur" title="Si bémol majeur">si♭ <br /><small>majeur</small></a></b>
+        </p>
+        </div></td><td rowspan="" colspan="" style="padding:0px;text-align:center;background-color:#ececec;;;width:6%;"><div>
+        <p><b><a href="/wiki/Fa_majeur" title="Fa majeur">fa <br /><small>majeur</small></a></b>
+        </p>
+        </div></td><td rowspan="" colspan="" style="padding:0px;text-align:center;background-color:#ececec;;;width:6%;"><div>
+        <p><b><a href="/wiki/Do_majeur" title="Do majeur">do <br /><small>majeur</small></a></b>
+        </p>
+        </div></td><td rowspan="" colspan="" style="padding:0px;text-align:center;background-color:#ececec;;;width:6%;"><div>
+        <p><b><a href="/wiki/Sol_majeur" title="Sol majeur">sol <br /><small>majeur</small></a></b>
+        </p>
+        </div></td><td rowspan="" colspan="" style="padding:0px;text-align:center;background-color:#ececec;;;width:6%;"><div>
+        <p><b><a href="/wiki/R%C3%A9_majeur" title="Ré majeur">ré <br /><small>majeur</small></a></b>
+        </p>
+        </div></td><td rowspan="" colspan="" style="padding:0px;text-align:center;background-color:#ececec;;;width:6%;"><div>
+        <p><b><a href="/wiki/La_majeur" title="La majeur">la <br /><small>majeur</small></a></b>
+        </p>
+        </div></td><td rowspan="" colspan="" style="padding:0px;text-align:center;background-color:#ececec;;;width:6%;"><div>
+        <p><b><a href="/wiki/Mi_majeur" title="Mi majeur">mi <br /><small>majeur</small></a></b>
+        </p>
+        </div></td><td rowspan="" colspan="" style="padding:0px;text-align:center;background-color:#ececec;;;width:6%;"><div>
+        <p><b><a href="/wiki/Si_majeur" title="Si majeur">si <br /><small>majeur</small></a></b>
+        </p>
+        </div></td><td rowspan="" colspan="" style="padding:0px;text-align:center;background-color:#ececec;;;width:6%;"><div>
+        <p><b><a href="/wiki/Fa_di%C3%A8se_majeur" title="Fa dièse majeur">fa♯ <br /><small>majeur</small></a></b>
+        </p>
+        </div></td><td rowspan="" colspan="" style="padding:0px;text-align:center;background-color:#ececec;;;width:6%;"><div>
+        <p><b><a href="/wiki/Do_di%C3%A8se_majeur" title="Do dièse majeur">do♯ <br /><small>majeur</small></a></b>
+        </p>
+        </div></td></tr><tr><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#ececec;;"><b><a href="/wiki/Mode_mineur" title="Mode mineur">Mode mineur</a></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#ececec;;"><b><a href="/wiki/La_b%C3%A9mol_mineur" title="La bémol mineur">la♭ <br /><small>mineur</small></a></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#ececec;;"><b><a href="/wiki/Mi_b%C3%A9mol_mineur" title="Mi bémol mineur">mi♭ <br /><small>mineur</small></a></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#ececec;;"><b><a href="/wiki/Si_b%C3%A9mol_mineur" title="Si bémol mineur">si♭ <br /><small>mineur</small></a></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#ececec;;"><b><a href="/wiki/Fa_mineur" title="Fa mineur">fa <br /><small>mineur</small></a></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#ececec;;"><b><a href="/wiki/Do_mineur" title="Do mineur">do <br /><small>mineur</small></a></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#ececec;;"><b><a href="/wiki/Sol_mineur" title="Sol mineur">sol <br /><small>mineur</small></a></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#ececec;;"><b><a href="/wiki/R%C3%A9_mineur" title="Ré mineur">ré <br /><small>mineur</small></a></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#ececec;;"><b><a href="/wiki/La_mineur" title="La mineur">la <br /><small>mineur</small></a></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#ececec;;"><b><a href="/wiki/Mi_mineur" title="Mi mineur">mi <br /><small>mineur</small></a></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#ececec;;"><b><a href="/wiki/Si_mineur" title="Si mineur">si <br /><small>mineur</small></a></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#ececec;;"><b><a href="/wiki/Fa_di%C3%A8se_mineur" title="Fa dièse mineur">fa♯ <br /><small>mineur</small></a></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#ececec;;"><b><a href="/wiki/Do_di%C3%A8se_mineur" title="Do dièse mineur">do♯ <br /><small>mineur</small></a></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#ececec;;"><b><a href="/wiki/Sol_di%C3%A8se_mineur" title="Sol dièse mineur">sol♯ <br /><small>mineur</small></a></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#ececec;;"><b><a href="/wiki/R%C3%A9_di%C3%A8se_mineur" title="Ré dièse mineur">ré♯ <br /><small>mineur</small></a></b></td><td class="navbox-abovebelow" colspan="1" style="text-align:center;background-color:#ececec;;"><b><a href="/wiki/La_di%C3%A8se_mineur" title="La dièse mineur">la♯ <br /><small>mineur</small></a></b></td></tr></tbody></table></td>
+        </tr>                              
+    </tbody></table>
+
+</body>
+</html>
+
+
+do♭/la♭
+sol♭/mi♭
+ré♭/si♭
+la♭/fa
+mi♭/do
+si♭/sol
+fa/ré
+do/la
+sol/mi
+ré/si
+la/fa♯
+mi/do♯
+si/sol♯
+fa♯/ré♯
+do♯/la♯
+fa♭
+sol♭
+♮
+
+const questions = [
+    { question: "Quelles sont les tonalités dont l’armature à la clé possède 1 bémol?", correctAnswer: "Fa majeur et Ré mineur", answers: ["Fa majeur et Ré mineur", "Sol majeur", "La majeur", "Do majeur"] },
+    { question: "Quelles sont les tonalités dont l’armature à la clé possède 2 bémols?", correctAnswer: "Si♭ majeur et Sol mineur", answers: ["Ré majeur", "Mi♭ majeur", "Si♭ majeur et Sol mineur", "La majeur"] },
+    { question: "Quelles sont les tonalités dont l’armature à la clé possède 3 bémols?", correctAnswer: "Si♭ majeur et Sol mineur", answers: ["Ré majeur", "Mi♭ majeur", "Si♭ majeur et Sol mineur", "La majeur"] },
+    { question: "Quelles sont les tonalités dont l’armature à la clé possède 4 bémols?", correctAnswer: "Si♭ majeur et Sol mineur", answers: ["Ré majeur", "Mi♭ majeur", "Si♭ majeur et Sol mineur", "La majeur"] },
+    { question: "Quelles sont les tonalités dont l’armature à la clé possède 5 bémols?", correctAnswer: "Si♭ majeur et Sol mineur", answers: ["Ré majeur", "Mi♭ majeur", "Si♭ majeur et Sol mineur", "La majeur"] },
+
+];
+
+let currentRound = 0;
+let score = 0;
+let answerTimeout;
+
+function displayQuestion() {
+    clearTimeout(answerTimeout);
+    document.getElementById("result").textContent = ""; // Clear previous result message
+
+    if (currentRound < questions.length) {
+        const q = questions[currentRound];
+        document.getElementById("questionText").textContent = q.question;
+
+        const form = document.getElementById("answerForm");
+        form.innerHTML = ""; // Clear previous answers dynamically
+
+        q.answers.forEach(answer => {
+            const label = document.createElement("label");
+            const radio = document.createElement("input");
+            radio.type = "radio";
+            radio.name = "answer";
+            radio.value = answer;
+            label.appendChild(radio);
+            label.append(answer);
+            form.appendChild(label);
+            form.appendChild(document.createElement("br"));
+        });
+
+        answerTimeout = setTimeout(() => showResult(false), 10000); // 10 seconds to answer
+    } else {
+        endGame();
+    }
+}
